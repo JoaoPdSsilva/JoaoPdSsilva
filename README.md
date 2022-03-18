@@ -5,7 +5,7 @@
 
 
 <div>
-🚩Redes Sociais 🚩
+<h1>🚩Redes Sociais 🚩</h1>
  <br>
  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JaoPeDEVro)
@@ -18,7 +18,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_jaajpredo/)
 
 <div>
-🚩Skills🚩
+ 
+<h1>🚩Skills🚩</h1>
 <br>
 <img align="center" alt="JoaopdSsilva-html" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 
