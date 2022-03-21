@@ -6,10 +6,8 @@
  <h1>Quem é João Pedro?</h1>
  
  <h1>Minhas Experiências?</h1>
-Ainda não tive muita experiência na área como programador em uma empresa realmente, mas tive algumas experiências na escola no curso técnico, quando o professor passava alguma atividade para ser realizada em casa ele sempre avisava que os prazos eram para parecer com o de uma empresa então ele passava a atividade e não falava mais dela e chegando no dia de entrega ele cobrava a atividade como se fosse um chefe cobrando a entrega de um projeto.
+Ainda não tive muita experiência na área como programador em uma empresa realmente, mas tive algumas experiências na escola no curso técnico, quando o professor passava alguma atividade para ser realizada em casa ele sempre avisava que os prazos eram para parecer com o de uma empresa então ele passava a atividade e não falava mais dela e chegando no dia de entrega ele cobrava a atividade como se fosse um chefe cobrando a entrega de um projeto. Posso citar o meu <a href="https://previewer.adalo.com/5be88003-b7fd-423b-9ae9-386a6c778307">TCC</a> como uma experiencia que tive em alguns meses com as cobranças e o peso de sempre estar corrigido e sem bug algum no projeto.
 
- <h1>Minha história com a programação</h1>
-Quando entrei na área foi como se fosse amor a primeira vista, eu me via vivendo e trabalhando com programação era como se algo me chamasse e eu sempre fui/sou apaixonado por jogos mas não segui nessa área pois me identifiquei com o desenvolvimento de softwares.
  
  <h1>Competições que eu participei</h1>
 Nos 3 anos de estudo que tive na ETEC tive a chance de participar de alguns eventos realizados pelo CPS (Centro Paula Souza) e alguns deles são próprios deles e outros são realizados por empresas da minha cidade, alguns eventos são:
