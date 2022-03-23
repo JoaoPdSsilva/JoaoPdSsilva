@@ -11,7 +11,7 @@
 
 <div>
  <h2>Detalhes sobre mim</h2>
-  Tenho 17 anos, comecei na programção com 15 anos e pretendo seguir carreira como Dev Back-end ou fullstack e para isso eu preciso de experiencia então estou procurando emprego e espero estar empregado logo para ver como realmente é o mercado de trabalho de programação, uma das minhas metas é ser reconhecido pelas pessoas que eu trabalho assim dando o meu melhor para a empresa a qual eu estiver trabalhando.
+  Tenho 17 anos, comecei na programação com 15 anos e pretendo seguir carreira como Dev Back-end ou fullstack e para isso eu preciso de experiência então estou procurando emprego e espero estar empregado logo para ver como realmente é o mercado de trabalho de programação, uma das minhas metas é ser reconhecido pelas pessoas que eu trabalho assim dando o meu melhor para a empresa a qual eu estiver trabalhando.
 
  
  <h2>Minhas Experiências</h2>
