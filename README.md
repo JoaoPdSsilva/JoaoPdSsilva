@@ -69,7 +69,7 @@ Na escola no curso técnico, quando o professor passava alguma atividade para se
   <li>PHP</li>
   <li>Laravel</li>
   
-  <h3>Linguagens e frameworks que pretendo aprender</h3>
+  <h3>Ferramentas e tecnologias que pretendo aprender</h3>
   
   <li>Docker</li>
   <li>MongoDB</li>
