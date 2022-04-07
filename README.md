@@ -55,8 +55,6 @@ Na escola no curso técnico, quando o professor passava alguma atividade para se
 <img align="center" alt="JoaopdSsilva-python" height="140" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 
 <img align="center" alt="JoaopdSsilva-mysql" height="140" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-
-<img align="center" alt="JoaopdSsilva-java" height="140" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
  
 <img align="center" alt="JoaopdSsilva-javascript" height="120" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
