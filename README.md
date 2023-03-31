@@ -18,9 +18,9 @@
     Participei de poucos projetos de maneira profissional porem pude fazer alguns projetos que contribuiram com minha experiencias como programador
 
     
-    [![Github]https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://github.com/JoaoPdSsilva/NsolucoesTESTEPRATICO)
+    [![GITHUB]https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://github.com/JoaoPdSsilva/NsolucoesTESTEPRATICO)
 
-    [![GitHub]https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://github.com/JoaoPdSsilva/Laravel-Projeto)
+    [![github]https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://github.com/JoaoPdSsilva/Laravel-Projeto)
 
     [![GitHub]https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://github.com/JoaoPdSsilva/ProjetoPW3)
 
