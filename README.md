@@ -18,13 +18,13 @@
     Participei de poucos projetos de maneira profissional porem pude fazer alguns projetos que contribuiram com minha experiencias como programador
 
     
-    (https://github.com/JoaoPdSsilva/NsolucoesTESTEPRATICO)
+    https://github.com/JoaoPdSsilva/NsolucoesTESTEPRATICO
 
-    (https://github.com/JoaoPdSsilva/Laravel-Projeto)
+    https://github.com/JoaoPdSsilva/Laravel-Projeto
 
-    (https://github.com/JoaoPdSsilva/ProjetoPW3)
+    https://github.com/JoaoPdSsilva/ProjetoPW3
 
-    (https://github.com/JoaoPdSsilva/SitePortfolio)
+    https://github.com/JoaoPdSsilva/SitePortfolio
 
 
  
