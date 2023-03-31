@@ -11,10 +11,14 @@
 
 <div>
  <h2>Detalhes sobre mim</h2>
-
+    Desenvolvedor Back-End Jr. com experiência em HTML5, CSS3, Javascript e PHP, com conhecimento em frameworks de desenvolvimento web como Laravel, habilidade em trabalhar em equipe e resolver problemas, Além disso, tenho experiência em projetos utilizando a biblioteca jQuery e o framework bootstrap. 
 
  
  <h2>Minhas Experiências</h2>
+    Participei de poucos projetos de maneira profissional porem pude fazer alguns projetos que contribuiram com minha experiencias como programador
+
+    <a href="https://github.com/JoaoPdSsilva/NsolucoesTESTEPRATICO">Teste para uma empresa</a>
+
 
  
  <h2>Competições que participei</h2>
