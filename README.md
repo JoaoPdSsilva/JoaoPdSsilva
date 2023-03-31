@@ -18,13 +18,13 @@
     Participei de poucos projetos de maneira profissional porem pude fazer alguns projetos que contribuiram com minha experiencias como programador
 
     
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)(https://github.com/JoaoPdSsilva/NsolucoesTESTEPRATICO)
+    [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoPdSsilva/NsolucoesTESTEPRATICO)
 
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)(https://github.com/JoaoPdSsilva/Laravel-Projeto)
+    [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoPdSsilva/Laravel-Projeto)
 
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)(https://github.com/JoaoPdSsilva/ProjetoPW3)
+    [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoPdSsilva/ProjetoPW3)
 
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)(https://github.com/JoaoPdSsilva/SitePortfolio)
+    [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoPdSsilva/SitePortfolio)
 
 
  
