@@ -17,7 +17,14 @@
  <h2>Minhas Experiências</h2>
     Participei de poucos projetos de maneira profissional porem pude fazer alguns projetos que contribuiram com minha experiencias como programador
 
-    <a href="https://github.com/JoaoPdSsilva/NsolucoesTESTEPRATICO">Teste para uma empresa</a>
+    
+    [![GitHub]https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://github.com/JoaoPdSsilva/NsolucoesTESTEPRATICO)
+
+    [![GitHub]https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://github.com/JoaoPdSsilva/Laravel-Projeto)
+
+    [![GitHub]https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://github.com/JoaoPdSsilva/ProjetoPW3)
+
+    [![GitHub]https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://github.com/JoaoPdSsilva/SitePortfolio)
 
 
  
