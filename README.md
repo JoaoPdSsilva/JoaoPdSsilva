@@ -18,13 +18,13 @@
     Participei de poucos projetos de maneira profissional porem pude fazer alguns projetos que contribuiram com minha experiencias como programador
 
     
-    [![GITHUB]https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://github.com/JoaoPdSsilva/NsolucoesTESTEPRATICO)
+    [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoPdSsilva/NsolucoesTESTEPRATICO)
 
-    [![github]https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://github.com/JoaoPdSsilva/Laravel-Projeto)
+    [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoPdSsilva/Laravel-Projeto)
 
-    [![GitHub]https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://github.com/JoaoPdSsilva/ProjetoPW3)
+    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoPdSsilva/ProjetoPW3)
 
-    [![GitHub]https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://github.com/JoaoPdSsilva/SitePortfolio)
+    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoPdSsilva/SitePortfolio)
 
 
  
@@ -49,7 +49,7 @@
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/joaopdssilva)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_jaajpredo/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-)](https://api.whatsapp.com/send?phone=998351988&text=Vi%20seu%20perfil%20no%20github.)
+)(https://api.whatsapp.com/send?phone=998351988&text=Vi%20seu%20perfil%20no%20github.)
 
 <div>
  
