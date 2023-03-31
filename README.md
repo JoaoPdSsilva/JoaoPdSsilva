@@ -11,11 +11,10 @@
 
 <div>
  <h2>Detalhes sobre mim</h2>
-  Tenho 17 anos, comecei na programação com 15 anos e pretendo seguir carreira como Dev Back-end ou fullstack e para isso eu preciso de experiência então estou procurando emprego e espero estar empregado logo para ver como realmente é o mercado de trabalho de programação, uma das minhas metas é ser reconhecido pelas pessoas que eu trabalho assim dando o meu melhor para a empresa a qual eu estiver trabalhando.
+
 
  
  <h2>Minhas Experiências</h2>
-Na escola no curso técnico, quando o professor passava alguma atividade para ser realizada em casa ele sempre avisava que os prazos eram para parecer com o de uma empresa então ele passava a atividade e não falava mais dela e chegando no dia de entrega ele cobrava a atividade como se fosse um chefe cobrando a entrega de um projeto. Posso citar o meu <a href="https://previewer.adalo.com/5be88003-b7fd-423b-9ae9-386a6c778307">TCC</a> como uma experiência que tive em alguns meses com as cobranças e o peso de sempre estar corrigido e sem bug algum no projeto.
 
  
  <h2>Competições que participei</h2>
@@ -63,7 +62,6 @@ Na escola no curso técnico, quando o professor passava alguma atividade para se
  
  <h3>Linguagens e frameworks preferidas</h3>
  <ul>
- <li>Python</li>
   <li>PHP</li>
   <li>Laravel</li>
   
@@ -71,7 +69,6 @@ Na escola no curso técnico, quando o professor passava alguma atividade para se
   
   <li>Docker</li>
   <li>MongoDB</li>
-  <li>NodeJS</li>
  </ul>
 
 <h2> Ferramenta usada para o desenvolvimento </h2>
