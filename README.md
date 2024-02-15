@@ -48,36 +48,4 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedrodevsantos/)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/joaopdssilva)
 
-<div>
- 
-<h2>Habilidades</h2>
-<br>
-<img align="center" alt="JoaopdSsilva-html" height="120" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 
- 
-<img align="center" alt="JoaopdSsilva-css" height="120" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
- 
-<img align="center" alt="JoaopdSsilva-php" height="120" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
- 
-<img align="center" alt="JoaopdSsilva-python" height="140" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-
-<img align="center" alt="JoaopdSsilva-mysql" height="140" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
- 
-<img align="center" alt="JoaopdSsilva-javascript" height="120" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-<img align="center" alt="JoaopdSsilva-bootstrap" height="140" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
- </div>
- 
- <h3>Linguagens e frameworks preferidas</h3>
- <ul>
-  <li>PHP</li>
-  <li>Laravel</li>
-  
-  <h3>Ferramentas e tecnologias que pretendo aprender</h3>
-  
-  <li>Docker</li>
-  <li>MongoDB</li>
- </ul>
-
-<h2> Ferramenta usada para o desenvolvimento </h2>
- <img align="center" alt="JoaopdSsilva-Vscode" height="120" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
