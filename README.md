@@ -4,21 +4,26 @@
 
 
 <div>
- <h1>Meus status no github</h1>
+ <h1 style="font-weight:700;">Status: </h1>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPdSsilva&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPdSsilva&layout=compact&theme=tokyonight"/>
 </div>
 
 <div>
  <h2>Detalhes sobre mim</h2>
-    Desenvolvedor Back-End Jr. com experiência em HTML5, CSS3, Javascript e PHP, com conhecimento em frameworks de desenvolvimento web como Laravel, habilidade em trabalhar em equipe e resolver problemas, Além disso, tenho experiência em projetos utilizando a biblioteca jQuery e o framework bootstrap. 
+    Desenvolvedor Back-End Jr. com experiência em HTML5, CSS3, JS, PHP e atualmente programo utilizando C#, .NET, ASP.NET e adquirindo conhecimento e experiência com Azure Functions e no o uso de Stored Procedures do MYSQL<br>
+ <h3>Hobbys: </h3>
+    Assistir filmes🎥, ler livros de ficção cientifica📖, Exercitar a criatividade jogando RPG De Mesa 🎲 e jogar em qualquer plataforma
+  <br>
+    
 
  
  <h2>Minhas Experiências</h2>
-    Participei de poucos projetos de maneira profissional porem pude fazer alguns projetos que contribuiram com minha experiencias como programador
+ Assistente de Desenvolvedor Jr da Empresa Sodré Laboratório - Out/2023 --> Atualmente<br>
+    Participei de poucos projetos de maneira profissional porém pude fazer alguns projetos que contribuiram com minha experiencias como programador<br>
 
     
-    https://github.com/JoaoPdSsilva/NsolucoesTESTEPRATICO
+    (https://github.com/JoaoPdSsilva/KinectProjeto)
 
     https://github.com/JoaoPdSsilva/Laravel-Projeto
 
@@ -41,11 +46,10 @@
  </div>
 
 <div>
-<h2>Redes Sociais</h2>
+<h2>Algumas maneiras de conversar comigo</h2>
  <br>
- 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JaoPeDEVro) 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedrodevsantos/)
+
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedrodevsantos/)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/joaopdssilva)
 
 
