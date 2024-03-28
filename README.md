@@ -13,7 +13,13 @@
  <h2>Detalhes sobre mim</h2>
     Desenvolvedor Back-End Jr. com experiência em HTML5, CSS3, JS, PHP e atualmente programo utilizando C#, .NET, ASP.NET e adquirindo conhecimento e experiência com Azure Functions e no o uso de Stored Procedures do MYSQL<br>
  <h3>Hobbys: </h3>
-    Assistir filmes🎥, ler livros de ficção cientifica📖, Exercitar a criatividade jogando RPG De Mesa 🎲 e jogar em qualquer plataforma
+    <ul>
+     <li>Assistir filmes🎥</li>
+     <li>Ler livros de ficção cientifica📖</li>
+     <li>Exercitar a criatividade jogando RPG De Mesa 🎲</li>
+     <li>Jogar em qualquer plataforma</li>
+     <li>Assistir jogos do meu time ⚽</li>
+    </ul>
   <br>
     
 
