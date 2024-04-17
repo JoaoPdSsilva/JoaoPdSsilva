@@ -11,7 +11,7 @@
 
 <div>
  <h2>Detalhes sobre mim</h2>
-    Desenvolvedor Back-End Jr. com experiência em HTML5, CSS3, JS, PHP e atualmente programo utilizando C#, .NET, ASP.NET e adquirindo conhecimento e experiência com Azure Functions e no o uso de Stored Procedures do MYSQL<br>
+    Desenvolvedor Back-End Jr. com experiência em HTML5, CSS3, JS, PHP<br> Atualmente estou trabalhando como dev jr na empresa Sodré Laboratório com C#, .NET, ASP.NET, Azure Functions e MYSQL <br>
  <h3>Hobbys: </h3>
     <ul>
      <li>Assistir filmes🎥</li>
@@ -52,7 +52,7 @@
  </div>
 
 <div>
-<h2>Algumas maneiras de conversar comigo</h2>
+<h2>Algumas maneiras de entrar em contato comigo</h2>
  <br>
 
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedrodevsantos/)
