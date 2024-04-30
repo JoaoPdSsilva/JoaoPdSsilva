@@ -24,7 +24,7 @@
 
  
  <h2>Minhas Experiências</h2>
- Assistente de Desenvolvedor Jr da Empresa Sodré Laboratório - Out/2023 --> Atualmente<br>
+ <b>Assistente de Desenvolvedor Jr da Empresa Sodré Laboratório</b> - Out/2023 -> Atualmente<br>
     Participei de poucos projetos de maneira profissional porém pude fazer alguns projetos que contribuiram com minha experiencias como programador
 <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" width="700">
