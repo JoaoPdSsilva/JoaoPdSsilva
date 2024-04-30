@@ -4,7 +4,6 @@
 
 
 <div>
- <h1 style="font-weight:700;">Status: </h1>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPdSsilva&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPdSsilva&layout=compact&theme=tokyonight"/>
 </div>
