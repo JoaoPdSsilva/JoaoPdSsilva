@@ -17,7 +17,7 @@
      <li>Ler livros de ficção cientifica📖</li>
      <li>Exercitar a criatividade jogando RPG De Mesa 🎲</li>
      <li>Jogar em qualquer plataforma</li>
-     <li>Assistir jogos do meu time ⚽</li>
+     <li>Assistir jogos do Santos 🐟⚽</li>
     </ul>
   <br>
     
@@ -27,11 +27,6 @@
  <b>Assistente de Desenvolvedor Jr da Empresa Sodré Laboratório</b> - Out/2023 -> Atualmente<br>
     Participei de poucos projetos de maneira profissional porém pude fazer alguns projetos que contribuiram com minha experiencias como programador
 <br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" width="700">
-<br><br>
-
-
- 
  <h2>Competições que participei</h2>
 <ul>
 <li>Maratona de Robótica - Realizada pelo CPS em 2019</li>
