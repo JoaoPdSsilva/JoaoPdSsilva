@@ -10,37 +10,36 @@
 
 <div>
  <h2>Detalhes sobre mim</h2>
-    Desenvolvedor Back-End Jr. com experiência em HTML5, CSS3, JS, PHP<br> Atualmente estou trabalhando como dev jr na empresa Sodré Laboratório com C#, .NET, ASP.NET, Azure Functions e MYSQL <br>
- <h3>Hobbys: </h3>
+    Junior Back-End Developer with experience in HTML5, CSS3, JS, and PHP.<br> I am currently working as a Junior Developer at Sodré Laboratório, focusing on C#, .NET, ASP.NET, Azure Functions, and MySQL.<br>
+ <h3>Hobbies: </h3>
     <ul>
-     <li>Assistir filmes🎥</li>
-     <li>Ler livros de ficção cientifica📖</li>
-     <li>Exercitar a criatividade jogando RPG De Mesa 🎲</li>
-     <li>Jogar em qualquer plataforma</li>
-     <li>Assistir jogos do Santos 🐟⚽</li>
+     <li>Watching movies 🎥</li>
+     <li>Reading science fiction books 📖</li>
+     <li>Exercising creativity by playing tabletop RPGs 🎲</li>
+     <li>Playing PC games</li>
     </ul>
   <br>
     
 
  
- <h2>Minhas Experiências</h2>
- <b>Assistente de Desenvolvedor Jr da Empresa Sodré Laboratório</b> - Out/2023 -> Atualmente<br>
-    Participei de poucos projetos de maneira profissional porém pude fazer alguns projetos que contribuiram com minha experiencias como programador
+ <h2>My Experiences</h2>
+ <b>Junior Developer Assistant at Sodré Laboratório - Oct/2023 -> Present<br>
+    I have participated in a few professional projects, but I have also worked on some personal projects that have contributed to my growth as a programmer.
 <br><br>
- <h2>Competições que participei</h2>
+ <h2>Competitions I've Participated In</h2>
 <ul>
-<li>Maratona de Robótica - Realizada pelo CPS em 2019</li>
-<li>Maratona de Programação - Realizada pelo CPS em 2019</li>
-<li>Maratona de Programação - Realizada pelo CPS em 2019 (2º semestre)</li>
+<li>Robotics Marathon - Organized by CPS in 2019</li>
+<li>Programming Marathon - Organized by CPS in 2019</li>
+<li>Programming Marathon - Organized by CPS in 2019 (2nd semester)</li>
 
-<li>Hackathon Realizada pela SABESP com apoio da FATEC DE LINS em 2019</li>
-<li>Hackathon Realizada pelo ÓLEO AMIGO DE LINS com apoio da FATEC DE LINS em 2020</li>
-<li>Hackathon Realizada pela LABS Paschoalotto e FATEC DE LINS em 2021</li>
+<li>Hackathon organized by SABESP with the support of FATEC DE LINS in 2019</li>
+<li>Hackathon organized by ÓLEO AMIGO DE LINS with the support of FATEC DE LINS in 2020</li>
+<li>Hackathon organized online by LABS Paschoalotto and FATEC DE LINS in 2021</li>
  </ul>
  </div>
 
 <div>
-<h2>Algumas maneiras de entrar em contato comigo</h2>
+<h2>Ways to Contact Me</h2>
  <br>
 
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedrodevsantos/)
