@@ -9,7 +9,7 @@
 </div>
 
 <div>
- <h2>Detalhes sobre mim</h2>
+ <h2>About me</h2>
     Junior Back-End Developer with experience in HTML5, CSS3, JS, and PHP.<br> I am currently working as a Junior Developer at Sodré Laboratório, focusing on C#, .NET, ASP.NET, Azure Functions, and MySQL.<br>
  <h3>Hobbies: </h3>
     <ul>
