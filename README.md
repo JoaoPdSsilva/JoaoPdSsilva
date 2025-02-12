@@ -1,9 +1,4 @@
 <div>
-<img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
-</div>
-
-
-<div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPdSsilva&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPdSsilva&layout=compact&theme=tokyonight"/>
 </div>
