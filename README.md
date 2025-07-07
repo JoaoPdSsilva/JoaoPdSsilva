@@ -1,9 +1,4 @@
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPdSsilva&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPdSsilva&layout=compact&theme=tokyonight"/>
-</div>
-
-<div>
  <h2>About me</h2>
     Junior Back-End Developer with experience in HTML5, CSS3, JS, and PHP.<br> I am currently working as a Junior Developer at Sodré Laboratório, focusing on C#, .NET, ASP.NET, Azure Functions, and MySQL.<br>
  <h3>Hobbies: </h3>
