@@ -15,7 +15,7 @@
 I have participated in a few professional projects, but I have also worked on some personal projects that have contributed to my growth as a programmer.  
 <br>
 
-<b>Personal Project - Catholic Saints History Website - Nov/2024 -> Present<br></b>
+<b>Personal Project - Catholic Saints History Website - Nov/2024 -> Jan/2026<br></b>
 I developed a website dedicated to sharing stories about Catholic saints, focusing on their lives, miracles, and contributions to faith.  
 This project has enhanced my skills in front-end and back-end development, including HTML, CSS, JavaScript, SQL and PHP.  
 It also helped me improve my knowledge in web hosting, database management, and user experience design.  
