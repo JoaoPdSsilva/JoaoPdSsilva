@@ -11,7 +11,8 @@
     </ul>
  <h2>My Experiences</h2>
 
-<b>Junior Developer Assistant at Sodré Laboratório - Oct/2023 -> Present<br></b>
+<b>Junior Systems Development Analyst - Feb/2026 -> Present<br></b>
+<b>Developer Assistant at Sodré Laboratório - Oct/2023 -> Feb/2026<br></b>
 I have participated in a few professional projects, but I have also worked on some personal projects that have contributed to my growth as a programmer.  
 <br>
 
