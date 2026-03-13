@@ -21,6 +21,11 @@ I developed a website dedicated to sharing stories about Catholic saints, focusi
 This project has enhanced my skills in front-end and back-end development, including HTML, CSS, JavaScript, SQL and PHP.  
 It also helped me improve my knowledge in web hosting, database management, and user experience design.  
 
+
+<b>Personal Project - CifraSync 🎼<br></b>
+CifraSync is a mobile application designed to help musicians synchronize song chords and lyrics in real time during rehearsals, performances, or worship sessions.
+The application allows one user (the admin) to control the song being displayed while other participants follow the same content simultaneously on their own devices. This eliminates the need for manual navigation and ensures everyone stays synchronized.
+
  <h2>Competitions I've Participated In</h2>
 <ul>
 <li>Robotics Marathon - Organized by CPS in 2019</li>
